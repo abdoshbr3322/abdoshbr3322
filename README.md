@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website showcasing my projects, skills, and competitive programming achievements. Built entirely using [Cursor Editor](https://cursor.sh/), the AI-powered code editor.
 
+🌐 [Live Demo](https://abdoshbr3322.github.io/Portfolio)
+
 ## 🌟 Features
 
 - **Modern UI/UX**: Clean, minimalist design with smooth animations and transitions
@@ -57,6 +59,7 @@ The portfolio is fully responsive with breakpoints at:
 
 ## 🔗 Links
 
+- 🎯 Live Demo: [Portfolio Website](https://abdoshbr3322.github.io/Portfolio)
 - GitHub: [abdoshbr3322](https://github.com/abdoshbr3322)
 - LinkedIn: [Abdullah Elshebrawy](https://www.linkedin.com/in/abdullah-elshebrawy-5b5071253)
 - Codeforces: [abdullahelshebrawy](https://codeforces.com/profile/abdullahelshebrawy)
