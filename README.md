@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Abdullah Elshebrawy, a passionate Software Engineering student and Front-end Developer from Egypt. I love building web applications and solving algorithmic problems. This portfolio showcases my journey, projects, and achievements in software development.
 
-🌐 [View My Portfolio](http://abdoshbr3322.github.io/abdoshbr3322/)
+🌐 [View My Portfolio](http://abdoshbr3322.github.io/)
 
 ## 👨‍💻 About Me
 
