@@ -1,6 +1,6 @@
 # Abdullah Elshebrawy's Portfolio
 
-A modern, responsive portfolio website showcasing my projects, skills, and competitive programming achievements. Built entirely using [Cursor Editor](https://cursor.sh/), the AI-powered code editor.
+A modern, responsive portfolio website showcasing my projects, skills, and competitive programming achievements. Created by Abdullah Elshebrawy in collaboration with Claude AI through [Cursor Editor](https://cursor.sh/), the AI-powered code editor.
 
 🌐 [Live Demo](https://abdoshbr3322.github.io/Portfolio)
 
@@ -44,7 +44,7 @@ A modern, responsive portfolio website showcasing my projects, skills, and compe
 
 ## 🚀 Development
 
-This project was developed entirely using Cursor Editor, leveraging its AI capabilities for:
+This project was developed by Abdullah Elshebrawy with the assistance of Claude AI through Cursor Editor, leveraging its AI capabilities for:
 - Code generation and optimization
 - Real-time suggestions and improvements
 - Debugging and problem-solving
@@ -69,4 +69,4 @@ The portfolio is fully responsive with breakpoints at:
 This project is open source and available under the MIT License.
 
 ---
-Built with 💚 using [Cursor Editor](https://cursor.sh/) 
+Created with 💚 by Abdullah Elshebrawy in collaboration with Claude AI through [Cursor Editor](https://cursor.sh/) 
