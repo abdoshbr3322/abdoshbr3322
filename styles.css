@@ -52,26 +52,6 @@ section {
   min-height: 100vh;
   padding: 8rem 2rem 2rem;
   scroll-margin-top: 60px;
-  position: relative;
-}
-
-section:not(:last-child)::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 80%;
-  max-width: 1000px;
-  height: 1px;
-  background: linear-gradient(
-    to right,
-    transparent,
-    rgba(100, 255, 218, 0.1),
-    rgba(100, 255, 218, 0.2),
-    rgba(100, 255, 218, 0.1),
-    transparent
-  );
 }
 
 .container {
@@ -437,16 +417,11 @@ h2::after {
 }
 
 .cp-platform .rating,
+.cp-platform .max-rating,
+.cp-platform .problems,
 .cp-platform .rank {
   color: #fff;
   font-weight: 500;
-}
-
-.cp-platform .max-rating,
-.cp-platform .problems {
-  color: #64ffda;
-  font-weight: 500;
-  text-shadow: 0 0 2px rgba(100, 255, 218, 0.3);
 }
 
 /* Codeforces Colors */
@@ -578,10 +553,17 @@ h2::after {
   font-weight: bold;
   cursor: pointer;
   transition: color 0.3s ease;
+  z-index: 1010;
 }
 
 .modal-close:hover {
   color: #fff;
+}
+
+@media (max-width: 768px) {
+  .modal-close {
+    display: none;
+  }
 }
 
 .project-img {
