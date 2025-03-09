@@ -16,7 +16,6 @@ Hi 👋, I'm Abdullah Elshebrawy, a passionate Software Engineering student and 
 
 - **Front-end Development**: Building responsive and interactive web applications
 - **Competitive Programming**: Solving algorithmic problems and participating in coding contests
-- **UI/UX Design**: Creating clean and modern user interfaces
 - **Problem Solving**: Developing efficient solutions to complex problems
 
 ## 🛠️ My Tech Stack
@@ -25,9 +24,6 @@ Hi 👋, I'm Abdullah Elshebrawy, a passionate Software Engineering student and 
 - **Frameworks/Libraries**: React, Bootstrap, SASS
 - **Tools & Technologies**: 
   - Git & GitHub
-  - VS Code & Cursor Editor
-  - Chrome DevTools
-  - Command Line
 
 ## 🔥 Featured Projects
 
@@ -38,27 +34,9 @@ Hi 👋, I'm Abdullah Elshebrawy, a passionate Software Engineering student and 
 5. **SB Admin Dashboard**: Comprehensive admin interface
 6. **Sixteen Clothes**: E-commerce website
 
-## 🏆 Achievements
-
-- Active participant in Codeforces competitions
-- Developed multiple responsive web applications
-- Implemented real-time API integrations
-- Created modern UI/UX designs
-
 ## 🤝 Let's Connect
 
 - 🎯 Portfolio: [abdoshbr3322.github.io](https://abdoshbr3322.github.io/)
 - 💼 LinkedIn: [Abdullah Elshebrawy](https://www.linkedin.com/in/abdullah-elshebrawy-5b5071253)
 - 📂 GitHub: [abdoshbr3322](https://github.com/abdoshbr3322)
 - 🏆 Codeforces: [abdullahelshebrawy](https://codeforces.com/profile/abdullahelshebrawy)
-
-## 🎨 Portfolio Features
-
-- Modern, responsive design
-- Real-time Codeforces statistics
-- Interactive project showcases
-- Comprehensive skills display
-- Mobile-friendly interface
-
----
-Created with 💚 by Abdullah Elshebrawy in collaboration with Claude AI through [Cursor Editor](https://cursor.sh/) 
